@@ -6,7 +6,7 @@ import bodyParser from "body-parser";
 import pg from "pg";
 
 const app = express();
-const port = 3124;
+const port = process.env.PORT || 3124;
 
 const conString = process.env.DATABASE_URL;
 
