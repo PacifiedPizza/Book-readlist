@@ -51,7 +51,7 @@ To run the Capstone Book Project locally, follow these steps:
 
 ## API Documentation
 
-For detailed API documentation, refer to the [official documentation on Render](https://book-readlist.onrender.com) 
+For detailed API documentation, refer to the [official documentation on Render](https://book-readlist.onrender.com/docs) 
 
 ## Live Demo
 
