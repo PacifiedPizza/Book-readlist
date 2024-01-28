@@ -1,4 +1,4 @@
-# Capstone Book Project
+# Capstone Book Read-List Project
 
 The Capstone Book Project is a full-stack application demonstrating the integration of PostgreSQL as a database, Node.js with Express for creating APIs, and EJS and CSS for building a web interface. The project is deployed on [Render](https://book-readlist.onrender.com) using Elephant SQL for database hosting.
 
